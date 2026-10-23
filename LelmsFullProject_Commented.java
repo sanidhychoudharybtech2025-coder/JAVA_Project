@@ -419,7 +419,7 @@ public class LelmsFullProject extends JFrame {
         // Button to create a database row.
         JButton btnCreate = new JButton("Create (INSERT)");
         // Button to reload the displayed table.
-        JButton btnRead   = new JButton("Refresh (SELECT)");
+        JButton btnRead   = new JButton("Read (SELECT)");
         // Button to update a database row.
         JButton btnUpdate = new JButton("Update (UPDATE)");
         // Button to delete a database row.
